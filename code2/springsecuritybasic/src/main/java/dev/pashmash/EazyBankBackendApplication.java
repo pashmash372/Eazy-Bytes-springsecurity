@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class SpringsecurityBasicApplication {
+public class EazyBankBackendApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringsecurityBasicApplication.class, args);
+        SpringApplication.run(EazyBankBackendApplication.class, args);
     }
 
 }
