@@ -39,3 +39,8 @@ https://docs.spring.io/spring-security/reference/migration-7/configuration.html
 Thank much. Let's have fun and learn together.
 
 https://docs.spring.io/spring-security/reference/servlet/authentication/passwords/jdbc.html
+
+
+http://localhost:4200/home
+
+![img_2.png](img_2.png)
